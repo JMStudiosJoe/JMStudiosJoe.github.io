@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% include topcomment.html %}
+<html lang="{{ site.lang }}">
+
+  {% include head.html %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8G33H0R5HV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8G33H0R5HV');
+</script>
+
+  <body class="landing">
+    <!-- Google Tag Manager (noscript) -->
+
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+      {% include header.html %}
+
+        <!-- Banner -->
+          <section id="banner">
+            <div class="inner">
+              <h1>! Error !</h1>
+              <p> Page not found :/</p>
+              <!--
+              <ul class="actions">
+                <li><a href="#" class="button special">Activate</a></li>
+              </ul>
+              -->
+            </div>
+          </section>
+
+      {% include footer.html %}
+
+      {% include scripts.html %}
+
+    </div>
+
+  </body>
+
+</html>
