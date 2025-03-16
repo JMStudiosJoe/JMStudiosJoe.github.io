@@ -1,7 +1,6 @@
-# technomancer-01.com
+# Art of Joseph Richardson
 
-A personal site derived from arkadianriver.com and by extension the talented [@ajlkn](http://twitter.com/ajlkn) via http://html5up.net/spectral
-Originally this was scavengers-repo, but the upkeep was starting to get in the way and I mainly wanted to focus on art stuff and cyber. 
+
 
 ## Some Notes for Future Me
 ```
