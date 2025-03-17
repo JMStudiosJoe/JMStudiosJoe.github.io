@@ -1,0 +1,90 @@
+---
+id: 1
+key: 1
+title: Gallery
+permalink: /works/
+excerpt: Mostly my art-focused projects and works. Come here to view my Soulsborne-related work such as <strong>On the Nature of Tarnished Souls</strong> and Bloodborne in Wonderland. 
+<!-- excerpt: You can find most of my work on Instagram, although I'm looking to actually start selling prints and other things on Etsy and Redbubble. While I am an amateur barista with mostly onion shaped latte art, with the occasional archery session and am in the process of getting my HAM Radio license, I'm focusing on the Cybernomicon, Soulsborne Sketches, and Tales From the Leyline Road. -->
+image: pic02.jpg
+background-image: pic02.jpg
+---
+
+
+{%
+  if site.social.linkedin-square %}
+  <div class="table-wrapper">
+    <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
+    <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
+  
+    </tr></tbody></table>
+  </div>{%
+  endif %}
+
+
+
+
+<div class="table-wrapper">
+  {% if site.categories.works %}
+
+    {% include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'%}
+    {%  for work in sorted_list %} 
+
+    
+    <div class="tableImage" style="background-image: url('{{ site.url }}/images/{{ work.background-image }}');">
+      <a  href="{{ work.url | prepend: site.baseurl }}">
+        <div class="innerTableImage">
+
+        {{work.title}}
+      
+    
+    </div>
+  </a>
+
+       </div>
+
+<!--     
+            <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
+            <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+         
+            <td style="max-width: 30vw"><img src="  {{ site.url }}/images/{{ work.background-image }} " style="float: right; width: 50%; margin-bottom: -30px" /></td> -->
+        {%endfor %}
+
+
+     
+    {%endif %}
+
+  </div>
+
+
+<!--
+  {%
+  if site.categories.works %}
+  <div class="table-wrapper">
+    <table>
+      <tbody>{%
+        include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
+  %}{%  for work in sorted_list %} 
+        <tr>
+          <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
+          <td>{{ work.date | date: "%b %Y" }}</td>
+          <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+           <td>   {{ site.url }}/images/{{ work.background-image }}</td> -->
+
+          <!-- <td>
+            {% include techlist.html %}
+          </td> 
+          <td style="max-width: 30vw"><img src="  {{ site.url }}/images/{{ work.background-image }} " style="float: right; width: 50%; margin-bottom: -30px" /></td>
+        </tr>{%
+        endfor %}
+      </tbody>
+    </table>
+  </div>{%
+    if site.works_in_progress %}
+    <div class="works_inprogress">In-progress, more to come.</div>{%
+    endif %}{%
+  endif
+  %}
+
+    -->
+
+  

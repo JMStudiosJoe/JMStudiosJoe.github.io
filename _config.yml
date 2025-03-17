@@ -9,10 +9,10 @@ twitter:
 
 # Site settings
 title: Art of Joseph Richardson
-description: 
+description: Oil Painting By Joey
 owner:
   name: Joey # or company name
-#  url: "https://artofjosephrichardson.com" # your URL
+  url: "https://artofjosephrichardson.com" # your URL
 first_published: 2021 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 #url: "https://artofjosephrichardson.com" # the base hostname & protocol for this site.
