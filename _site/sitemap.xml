@@ -2,61 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>http://localhost:4000/</loc>
-      <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+      <lastmod>2025-03-17T09:11:34-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>http://localhost:4000/works/new-site.html</loc>
+      <loc>http://localhost:4000/topics/new-site.html</loc>
         <lastmod>2025-03-16T00:00:00-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
+      <loc>http://localhost:4000/works/August-Picnic-Light.html</loc>
+        <lastmod>2022-08-05T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Alameda-CreekSunset.html</loc>
+        <lastmod>2020-11-18T00:00:00-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Backyard-Blessings.html</loc>
+        <lastmod>2020-03-06T00:00:00-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Artist-Journey-v1.html</loc>
+        <lastmod>2020-01-07T00:00:00-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Apple-Mary-En-Plein-Air.html</loc>
+        <lastmod>2019-11-24T00:00:00-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Alviso-Marina-County-Park-Moment2.html</loc>
+        <lastmod>2019-11-12T00:00:00-08:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Alviso-Marina-Park-En-Plein-Air-Opus.html</loc>
+        <lastmod>2019-09-16T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+      <loc>http://localhost:4000/works/Active-Valakut.html</loc>
+        <lastmod>2019-09-16T00:00:00-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
       <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/about/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/contact-success/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/credits/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/shop/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
       <loc>http://localhost:4000/works/</loc>
-        <lastmod>2025-03-16T23:25:17-07:00</lastmod>
+        <lastmod>2025-03-17T09:11:34-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>

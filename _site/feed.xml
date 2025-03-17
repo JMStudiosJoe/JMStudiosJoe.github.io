@@ -5,8 +5,8 @@
     <description>Oil Painting By Joey</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Mar 2025 23:25:17 -0700</pubDate>
-    <lastBuildDate>Sun, 16 Mar 2025 23:25:17 -0700</lastBuildDate>
+    <pubDate>Mon, 17 Mar 2025 09:11:34 -0700</pubDate>
+    <lastBuildDate>Mon, 17 Mar 2025 09:11:34 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -91,8 +91,566 @@ function myFunction(imgs) {
 
 </description>
         <pubDate>Sun, 16 Mar 2025 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/new-site.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/new-site.html</guid>
+        <link>http://localhost:4000/topics/new-site.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/new-site.html</guid>
+        
+        
+        <category>topics</category>
+        
+      </item>
+    
+      <item>
+        <title>August Picnic Light</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;august-picnic-light&quot;&gt;August Picnic Light&lt;/h2&gt;
+&lt;p&gt;### 
+August 2022&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/AugustPicnicLight/AugustPicnicLight.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 05 Aug 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/August-Picnic-Light.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/August-Picnic-Light.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Alameda Creek Sunset</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;alameda-creek-sunset&quot;&gt;Alameda Creek Sunset&lt;/h2&gt;
+&lt;p&gt;### 
+November 11, 2020&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/AlamedaCreekSunSet/AlamedaCreekSunSetWeb.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/Alameda-CreekSunset.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Alameda-CreekSunset.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Backyard Blessings</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;alameda-creek-sunset&quot;&gt;Alameda Creek Sunset&lt;/h2&gt;
+&lt;p&gt;### 
+March 6, 2020&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/BackyardBlessings/BackyardBlessingsWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Fri, 06 Mar 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/Backyard-Blessings.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Backyard-Blessings.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Artist Journey Version 1</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;artist-journey-version-1&quot;&gt;Artist Journey Version 1&lt;/h2&gt;
+&lt;p&gt;### 
+January 7, 2020&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/ArtistJourney/ArtistJourneyStep1Web.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Jan 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/Artist-Journey-v1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Artist-Journey-v1.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple Mary En Plein Air</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;apple-mary-en-plein-air&quot;&gt;Apple Mary En Plein Air&lt;/h2&gt;
+&lt;p&gt;### 
+November 11, 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/AppleMaryEnPleinAir/AppleMaryEnPleinAirWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Sun, 24 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/Apple-Mary-En-Plein-Air.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Apple-Mary-En-Plein-Air.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Alviso Marina County Park Moment 2</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;alviso-marina-county-park-moment-2&quot;&gt;Alviso Marina County Park Moment 2&lt;/h2&gt;
+&lt;p&gt;### 
+January 18, 2020&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/AlvisoMarinaParkMoment2/AlvisoMarinaCountyParkMoment2WebNoFrame.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/Alviso-Marina-County-Park-Moment2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Alviso-Marina-County-Park-Moment2.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Alviso Marina County Park En Plein Air</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;alviso-marina-county-en-plein-air&quot;&gt;Alviso Marina County En Plein Air&lt;/h2&gt;
+&lt;p&gt;### 
+November 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/AlvisoMarinaParkOpus1/AlvisoMarinaParkEnPleinAirOpus1WebNoFrame.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 16 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/Alviso-Marina-Park-En-Plein-Air-Opus.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Alviso-Marina-Park-En-Plein-Air-Opus.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Active Valakut</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;apple-mary-en-plein-air&quot;&gt;Apple Mary En Plein Air&lt;/h2&gt;
+&lt;p&gt;### 
+November 11, 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/ActiveValukut/ActiveValukutWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Mon, 16 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/Active-Valakut.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/Active-Valakut.html</guid>
         
         
         <category>works</category>
