@@ -1,14 +1,14 @@
 ---
-title: Cotopaxi
+title: Old Faithful
 author: Joey
-excerpt: Cotopaxi
+excerpt: Old Faithful
 
 skills:
   - oil painting
 categories:
   - works
   
-background-image: ArtistJourney/ArtistJourneyStep1Thumb.png
+background-image: EnPleinAirOlFaithful/EnPLeinAirOlFaithful.jpg
 
 ---
 ---
@@ -58,25 +58,11 @@ function myFunction(imgs) {
 }
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-{% include toc.html %}
-* toc
-{:toc}
 
-## Across The Fog
-### (pages 2 and 3)
-May 21, 2022
+## Old Faithful
+### 
+March 5, 2022
 
-
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg2-3-AcrossTheFog/EldenRing-pg2-3-AcrossTheFog-18.png" onclick="myFunction(this);">
+<img class="imageDisplay" src="/images/EnPleinAirOlFaithful/EnPLeinAirOlFaithful.jpg" onclick="myFunction(this);">
  
-
-
-
-## Quotes
-
-<img class="imageDisplay" src="/images/satmorningsoulsborne/EldenRing-pg2-3-AcrossTheFog/EldenRing-pg2-3-AcrossTheFog-3-best.png" onclick="myFunction(this);">
-
-
-## Links
-
 
