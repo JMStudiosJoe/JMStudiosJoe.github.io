@@ -448,15 +448,15 @@ ul.actions.fit.small li { padding: 0 0 0 0.75em; }
 dl { margin: 0 0 2em 0; }
 
 /* Table */
-.table-wrapper { -webkit-overflow-scrolling: touch; overflow-x: auto; max-width: fit-content; margin-left: auto; margin-right: auto; }
+.table-wrapper { -webkit-overflow-scrolling: touch; width: 100vw; align-items: center; margin: 0 auto; }
 
-.tableImage { -webkit-box-sizing: border-box; border: 4px; display: inline-flex; min-width: 15vw; width: auto; max-width: 25vw; min-height: 35vh; background-repeat: no-repeat; background-size: cover; background-position: center; margin: 5px 5px 5px 5px; text-align: center; margin-left: 0; margin-right: 0; }
+.tableImage { text-overflow: ellipsis; display: inline-flex; flex-wrap: wrap; -webkit-box-sizing: border-box; border: 4px; width: 20vw; height: 28vh; background-repeat: no-repeat; background-size: cover; background-position: center; margin: 5px 5px 5px 5px; text-align: center; }
 
 .tableImage a { opacity: 0.2; object-fit: cover; margin: 0 auto; }
 
 .tableImage a:hover { opacity: 1; }
 
-.innerTableImage { text-align: center; min-width: 15vw; width: auto; max-width: 30vw; min-height: 35vh; background: linear-gradient(to bottom, rgba(20, 20, 20, 0.2), rgba(20, 20, 20, 0.4)); object-fit: cover; margin: 0 auto; display: flex; align-items: center; justify-content: center; }
+.innerTableImage { text-align: center; padding: 2em 2em 2em 2em; width: 20vw; height: 28vh; padding-top: 5em; background: linear-gradient(to bottom, rgba(20, 20, 20, 0.2), rgba(20, 20, 20, 0.4)); object-fit: cover; margin: 0 auto; display: inline-flex; justify-content: center; text-overflow: ellipsis; }
 
 .innerTableImage:hover { background-color: rgba(20, 20, 20, 0.8); }
 
