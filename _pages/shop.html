@@ -3,18 +3,23 @@ key: 3
 id: 3
 title: Shop
 permalink: /shop/
-excerpt: Local Art Shows, Galleries, and an Etsy store coming soon
+excerpt: Local Art Shows, Galleries, and An Etsy Store for Online Shopping
 image: artshow1.png
 background-image: artshow1.png
 ---
-{%
+<!-- {%
 if site.social.linkedin-square %}
 <div class="table-wrapper">
   <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
   <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
   </tr></tbody></table>
 </div>{%
-endif %}
+endif %} -->
+
+<h3>Etsy</h3> 
+You can purchase my paintings online now that I've setup an Etsy account.
+
+
 {%
 if site.categories.works %}
 <div class="table-wrapper">
@@ -25,7 +30,9 @@ if site.categories.works %}
       <tr>
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
         <td>{{ work.date | date: "%b %Y" }}</td>
+        <td>{{ work.price}}</td>
         <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+
         <td>
           {% include techlist.html %}
         </td>

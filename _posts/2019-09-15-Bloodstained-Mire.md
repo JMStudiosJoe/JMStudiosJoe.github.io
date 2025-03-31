@@ -2,7 +2,11 @@
 title: Bloodstained Mire
 author: Joey
 excerpt: \"Where dragons once triumphed, their bones now molder\"
+<<<<<<< HEAD
+price: $400
+=======
 
+>>>>>>> 0111d245eff4941bf3ac820fe2f9eabe1fde5a8f
 skills:
   - oil painting
 categories:

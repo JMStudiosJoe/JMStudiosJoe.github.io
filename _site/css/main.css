@@ -164,9 +164,7 @@ body { -webkit-text-size-adjust: none; }
 /* Basic */
 @-ms-viewport { width: device-width; }
 
-body { font-family: "Source Sans Pro","Microsoft Yahei",sans-serif; /*	background: _palette(bg);*/ background-color: black; }
-
-body.is-loading *, body.is-loading *:before, body.is-loading *:after { -moz-transition: none !important; -webkit-transition: none !important; -ms-transition: none !important; transition: none !important; }
+body { overflow-x: hidden; font-family: "Source Sans Pro","Microsoft Yahei",sans-serif; /*	background: _palette(bg);*/ background-color: black; }
 
 @font-face { font-family: "Source Sans Pro","Microsoft Yahei",sans-serif; src: url(Mina-Regular.ttf); }
 
@@ -450,13 +448,13 @@ dl { margin: 0 0 2em 0; }
 /* Table */
 .table-wrapper { -webkit-overflow-scrolling: touch; width: 100vw; align-items: center; margin: 0 auto; }
 
-.tableImage { text-overflow: ellipsis; display: inline-flex; flex-wrap: wrap; -webkit-box-sizing: border-box; border: 4px; width: 20vw; height: 28vh; background-repeat: no-repeat; background-size: cover; background-position: center; margin: 5px 5px 5px 5px; text-align: center; }
+.tableImage { text-overflow: ellipsis; display: inline-flex; flex-wrap: wrap; -webkit-box-sizing: border-box; border: 4px; width: 20vw; height: 30vh; background-repeat: no-repeat; background-size: cover; background-position: center; margin: 5px 5px 5px 5px; text-align: center; }
 
-.tableImage a { opacity: 0.2; object-fit: cover; margin: 0 auto; }
+.tableImage a { opacity: 0.07; object-fit: cover; margin: 0 auto; }
 
 .tableImage a:hover { opacity: 1; }
 
-.innerTableImage { text-align: center; padding: 2em 2em 2em 2em; width: 20vw; height: 28vh; padding-top: 5em; background: linear-gradient(to bottom, rgba(20, 20, 20, 0.2), rgba(20, 20, 20, 0.4)); object-fit: cover; margin: 0 auto; display: inline-flex; justify-content: center; text-overflow: ellipsis; }
+.innerTableImage { text-align: center; padding: 2em 2em 2em 2em; width: 20vw; height: 30vh; padding-top: 5em; background: linear-gradient(to bottom, rgba(20, 20, 20, 0.2), rgba(20, 20, 20, 0.4)); object-fit: cover; margin: 0 auto; display: inline-flex; justify-content: center; text-overflow: ellipsis; }
 
 .innerTableImage:hover { background-color: rgba(20, 20, 20, 0.8); }
 
@@ -715,11 +713,11 @@ input.disabled[type="submit"], input[type="submit"]:disabled, input.disabled[typ
 
 @media screen and (max-width: 260px) { .breadcrumb li { border: 0; display: block; line-height: 0.9em; margin: 0; padding: 0.5em 0; } }
 
-.wrapper { padding: 3em 0 1em 0 ; }
+.wrapper { margin-top: 1em; margin-bottom: 1em; }
 
 .wrapper .minihead { padding: 1em 0 0.1em 0 ; }
 
-.wrapper > .inner { width: 80em; margin: 0 auto; }
+.wrapper > .inner { width: 80em; margin-left: auto; margin-right: auto; }
 
 .wrapper > .inner.fullwidth { width: 100%; padding: 0 16px 0 16px; }
 

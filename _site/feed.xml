@@ -5,9 +5,79 @@
     <description>Oil Painting By Joey</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Mar 2025 12:51:00 -0700</pubDate>
-    <lastBuildDate>Fri, 21 Mar 2025 12:51:00 -0700</lastBuildDate>
+    <pubDate>Mon, 31 Mar 2025 12:06:58 -0700</pubDate>
+    <lastBuildDate>Mon, 31 Mar 2025 12:06:58 -0700</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;apple-mary-en-plein-air&quot;&gt;Apple Mary En Plein Air&lt;/h2&gt;
+&lt;p&gt;### 
+September 15, 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/BloodstainedMire/BloodstainedMireBig.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Mon, 31 Mar 2025 12:06:58 -0700</pubDate>
+        <link>http://localhost:4000/2019-09-15-Bloodstained-Mire.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-09-15-Bloodstained-Mire.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>New Site</title>
@@ -312,6 +382,84 @@ March 5, 2022&lt;/p&gt;
       </item>
     
       <item>
+        <title>Grand Teton Mountains In Morning Light</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;grand-teton-in-morning-light&quot;&gt;Grand Teton in Morning Light&lt;/h2&gt;
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/GrandTetonInMorningLight/GrandTetonInMorningLight.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+Grand Teton Mountain range in Yellowstone National Park&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Sat, 05 Mar 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/still%20life/yellowstone/national%20parks/mountains/GrandTetonInMorningLight.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/still%20life/yellowstone/national%20parks/mountains/GrandTetonInMorningLight.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>still life</category>
+        
+        <category>Yellowstone</category>
+        
+        <category>National Parks</category>
+        
+        <category>Mountains</category>
+        
+      </item>
+    
+      <item>
         <title>Diablo Range View Mission Peak</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
@@ -386,6 +534,149 @@ April 2, 2021&lt;/p&gt;
       </item>
     
       <item>
+        <title>Shasta Path At Sundown</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;grand-teton-in-morning-light&quot;&gt;Grand Teton in Morning Light&lt;/h2&gt;
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/GrandViewPathAtSunDown/PathAtSundownWeb.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;
+A path at Shasta&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+</description>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/shasta/landscapes/mountains/Shasta-Path-At-Sundown.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/shasta/landscapes/mountains/Shasta-Path-At-Sundown.html</guid>
+        
+        
+        <category>works</category>
+        
+        <category>shasta</category>
+        
+        <category>landscapes</category>
+        
+        <category>mountains</category>
+        
+      </item>
+    
+      <item>
+        <title>Middle Falls McCloud River</title>
+        <description>&lt;hr /&gt;
+&lt;script&gt;
+function myFunction(imgs) {
+  var expandImg = document.getElementById(&quot;expandedImg&quot;);
+  var imgText = document.getElementById(&quot;imgtext&quot;);
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = &quot;block&quot;;
+}
+&lt;/script&gt;
+
+&lt;style&gt;
+  small{
+    font-size: 10px;
+  }
+  /* The expanding image container */
+.container {
+  display: none;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+  width: 80vw;
+  overflow-y: scroll;
+  overflow-x: scroll;
+  bottom: 3%;
+}
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+  &lt;/style&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;h2 id=&quot;hedge-creek-falls&quot;&gt;Hedge Creek Falls&lt;/h2&gt;
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/MiddleFallsMcCloudRiverCurtain/MIddleFallsMcCloudRiverWeb.jpg&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/MiddleFallsMcCloudRiver.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/MiddleFallsMcCloudRiver.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
         <title>Alameda Creek Sunset</title>
         <description>&lt;hr /&gt;
 &lt;script&gt;
@@ -451,286 +742,6 @@ November 11, 2020&lt;/p&gt;
         <pubDate>Wed, 18 Nov 2020 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/works/Alameda-CreekSunset.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/Alameda-CreekSunset.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Dillon Date Spot Sunset</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;dillon-date-spot&quot;&gt;Dillon Date Spot&lt;/h2&gt;
-&lt;p&gt;### 
-May 1, 2020&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/DillonDateSpotSunset/DillonDateSpotSunsetWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 01 May 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/Dillon-Date-Spot-Sunset.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Dillon-Date-Spot-Sunset.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Coyote Valley Open Space Preserve Overlook</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;campbell-dog-park&quot;&gt;Campbell Dog Park&lt;/h2&gt;
-&lt;p&gt;### 
-May 5, 2020&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/CoyoteValleyOpenSpacePreserveOverlook/CoyoteValleyOpenSpacePreserveOverlookWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A view overlooking Coyote Valley Open Space Preserve&lt;/p&gt;
-
-&lt;h2 id=&quot;quotes&quot;&gt;Quotes&lt;/h2&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-
-</description>
-        <pubDate>Fri, 01 May 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/works/Coyote-Valley.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Coyote-Valley.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Dillon Beach</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;dillon-beach&quot;&gt;Dillon Beach&lt;/h2&gt;
-&lt;p&gt;### 
-March 6, 2020&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/DillonBeach/DillonBeachWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 06 Mar 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/Dillon-Beach.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Dillon-Beach.html</guid>
-        
-        
-        <category>works</category>
-        
-      </item>
-    
-      <item>
-        <title>Backyard Blessings</title>
-        <description>&lt;hr /&gt;
-&lt;script&gt;
-function myFunction(imgs) {
-  var expandImg = document.getElementById(&quot;expandedImg&quot;);
-  var imgText = document.getElementById(&quot;imgtext&quot;);
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = &quot;block&quot;;
-}
-&lt;/script&gt;
-
-&lt;style&gt;
-  small{
-    font-size: 10px;
-  }
-  /* The expanding image container */
-.container {
-  display: none;
-  z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  width: 80vw;
-  overflow-y: scroll;
-  overflow-x: scroll;
-  bottom: 3%;
-}
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-  &lt;/style&gt;
-
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot; /&gt;
-
-&lt;h2 id=&quot;alameda-creek-sunset&quot;&gt;Alameda Creek Sunset&lt;/h2&gt;
-&lt;p&gt;### 
-March 6, 2020&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;imageDisplay&quot; src=&quot;/images/BackyardBlessings/BackyardBlessingsWeb.png&quot; onclick=&quot;myFunction(this);&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-
-</description>
-        <pubDate>Fri, 06 Mar 2020 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/works/Backyard-Blessings.html</link>
-        <guid isPermaLink="true">http://localhost:4000/works/Backyard-Blessings.html</guid>
         
         
         <category>works</category>
