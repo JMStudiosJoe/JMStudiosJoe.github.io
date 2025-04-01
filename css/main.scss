@@ -45,11 +45,8 @@ width: 10%;
 
 	object-fit: cover;
 	display: block;
-
 	
 }
-
-
 
 
 .imageContainer{
@@ -120,8 +117,9 @@ width: 10%;
 	@-ms-viewport {
 		width: device-width;
 	}
-
+	
 	body {
+		overflow-x: hidden;
 		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
 
 	/*	background: _palette(bg);*/
@@ -130,10 +128,14 @@ width: 10%;
 		&.is-loading {
 			*, *:before, *:after {
 				// @include vendor('animation', 'none !important');
-				@include vendor('transition', 'none !important');
+				// commented out on march 29 2025
+				// @include vendor('transition', 'none !important');
 			}
 		}
 	}
+
+
+
 	@font-face {
 		// font-family: myFirstFont;
 		font-family: "Source Sans Pro","Microsoft Yahei",sans-serif;
@@ -147,6 +149,8 @@ width: 10%;
 		src: url(Mina-Bold.ttf)
 	  }
 	  
+
+
 	body, input, select, textarea {
 		p{
 			font-family: _font(ctrl-family);
@@ -985,7 +989,7 @@ width: 10%;
 		-webkit-box-sizing: border-box;
     border: 4px;
     width: 20vw;
-    height: 28vh;
+    height: 30vh;
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -993,7 +997,7 @@ width: 10%;
     margin: 5px 5px 5px 5px;
 		text-align: center;
 		a{
-			opacity:0.2;
+			opacity: 0.07;
 			object-fit: cover;
 			margin: 0 auto;
 		}
@@ -1006,17 +1010,13 @@ width: 10%;
 		text-align: center;
 		padding: 2em 2em 2em 2em;
     width: 20vw;
-    height: 28vh;
+    height: 30vh;
 		padding-top: 5em;
-    // min-width: 15vw;
-    // width: auto;
-		// max-width: 30vw;
-    // min-height: 35vh;
+
 		background: linear-gradient(to bottom, rgba(20,20,20,0.2), rgba(20,20,20,0.4));
 		object-fit: cover;
 		margin: 0 auto;
 		display: inline-flex;
-		// align-items:center ;
     justify-content: center;
 		text-overflow: ellipsis;
 
@@ -1026,9 +1026,6 @@ width: 10%;
 		background-color: rgba(20,20,20,0.8);
 	a{	opacity: 1;}
 	}
-
-
-	
 	table {
 		margin: 0 0 _size(element-margin) 0;
 		width: 100%;
@@ -1793,7 +1790,9 @@ width: 10%;
 
 
 	.wrapper {
-		@include padding(3em, 0); //6
+		// @include padding(3em, 0); //6
+		margin-top: 1em;
+		margin-bottom: 1em;
 
 		.minihead {
 			@include padding(1em, 0);
@@ -1803,7 +1802,9 @@ width: 10%;
 			// width: 60em;
 			width: 80em;
 
-			margin: 0 auto;
+			// margin: 0 auto;
+			margin-left: auto;
+			margin-right: auto;
 
 			&.fullwidth {
 				width: 100%;
