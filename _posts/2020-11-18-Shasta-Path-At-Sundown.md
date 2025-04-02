@@ -2,7 +2,7 @@
 title: Shasta Path At Sundown
 author: Joey
 excerpt: Grand Teton Mountain Ranges
-price: $400
+price: 400
 
 categories:
   - works

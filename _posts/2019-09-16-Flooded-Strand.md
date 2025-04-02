@@ -2,7 +2,7 @@
 title: Flooded Strand
 author: Joey
 excerpt: \"Where dragons once slept, their bones now rest.\"
-price: $400
+price: 400
 skills:
   - oil painting
 categories:

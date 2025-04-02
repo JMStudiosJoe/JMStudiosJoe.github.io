@@ -2,7 +2,7 @@
 title: Santa Cruz Surf Museum
 author: Joey
 excerpt: A panoramic view of Santa Cruz at sunset
-price: $400
+price: 400
 skills:
   - oil painting
 categories:

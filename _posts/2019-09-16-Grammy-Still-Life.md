@@ -2,7 +2,7 @@
 title: Grammy Still Life
 author: Joey
 excerpt: Flowers for my grandmother
-price: $400
+price: 400
 skills:
   - oil painting
 categories:
