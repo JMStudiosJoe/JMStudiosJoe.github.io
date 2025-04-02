@@ -17,8 +17,12 @@ if site.social.linkedin-square %}
 endif %} -->
 
 <h3>Etsy</h3> 
-You can purchase my paintings online now that I've setup an Etsy account.
 
+<p>I sell my full paintings and art cards on my Etsy store: <strong><a href = "https://www.etsy.com/shop/ArtOfJoeyRichardson">ArtOfJoeyRichardson</a></strong></p>
+
+<p>
+We're having an inventory sale right now so you should check it out :)
+</p>
 
 {%
 if site.categories.works %}
@@ -30,7 +34,7 @@ if site.categories.works %}
       <tr>
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
         <td>{{ work.date | date: "%b %Y" }}</td>
-        <td>{{ work.price}}</td>
+        <td>${{ work.price}}</td>
         <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
 
         <td>
