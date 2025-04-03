@@ -2,7 +2,7 @@
 title: Grand Teton Mountains In Morning Light
 author: Joey
 excerpt: Grand Teton Mountain Ranges
-price: $400
+price: 400
 skills:
   - oil painting
 categories:
