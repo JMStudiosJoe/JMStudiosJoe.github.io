@@ -8,7 +8,7 @@ skills:
 categories:
   - works
   
-background-image: MiddleFallsMcCloudRiverCurtain/MiddleFallsMcCloudRiver.jpg
+background-image: MiddleFallsMcCloudRiver/MiddleFallsMcCloudRiver-preview.jpg
 
 ---
 ---
@@ -59,10 +59,10 @@ function myFunction(imgs) {
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-## Hedge Creek Falls
+## Middle Falls McCloud River
 ### 
 
-<img class="imageDisplay" src="/images/MiddleFallsMcCloudRiverCurtain/MIddleFallsMcCloudRiverWeb.jpg" onclick="myFunction(this);">
+<img class="imageDisplay" src="/images/MiddleFallsMcCloudRiver/MiddleFallsMcCloudRiverWeb.jpg" onclick="myFunction(this);">
  
 
 
